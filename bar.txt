@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello
 segundo paso 
+=======
+>>>>>>> parent of bb8bc8b (prueba 1)
